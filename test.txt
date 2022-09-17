@@ -1,1 +1,6 @@
 This is my first text file in git test.
+Testing for version change in files with mulitple lines copy/paste
+This is my first text file in git test.
+This is my first text file in git test.
+This is my first text file in git test.
+This is my first text file in git test.
